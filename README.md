@@ -45,3 +45,6 @@ If you want to collaborate, test me live no fancy resumes, no sugarcoating.
 ### 📈 GitHub Stats
 
 ![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamadanbaiwa&show_icons=true&hide=issues&count_private=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=usamadanbaiwa&theme=dark)
+
