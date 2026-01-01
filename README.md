@@ -1,4 +1,4 @@
-<h1 align="center">Usama Danbaiwa</h1>
+<h1 align="center">Usama Lawan</h1>
 
 <p align="center">
   <b>⚔️ Full-stack Developer | OSS Contributor | Relentless Builder</b><br/>
