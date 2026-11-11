@@ -1,50 +1,35 @@
-<h1 align="center">Usama Lawan</h1>
+<div align="center">
 
-<p align="center">
-  <b>⚔️ Full-stack Developer | OSS Contributor | Relentless Builder</b><br/>
-  <i>I don't chase trends. I build systems. Code is my domain, clarity is my weapon.</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Usama%20Danbaiwa&fontSize=50&fontColor=ffffff&fontAlignY=55" width="100%" alt="Usama Danbaiwa" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Usama.;I+build+web+apps.;React%2C+Next.js%2C+Node.js+and+PHP." alt="Hi, I'm Usama. I build web apps." />
+
+</div>
+
+## About me
+
+I'm a full stack developer. working on both the frontend and backend.
+
+- **Frontend:** React, Next.js, HTML, CSS etc
+- **Backend:** Node.js, Express, PHP, Firebase and Supabase.
+- **Database:** PostgreSQL, MYSQL.
+- **Languages:** JavaScript, TypeScript, Python and SQL.
+- **Tools:** Git, GitHub Actions, Docker and Vercel.
+
+I'm usually building something. If it's not on Public Repo yet, it's private
+## What I use
+
+<img src="https://skillicons.dev/icons?i=js,php,ts,express,python,react,nextjs,css,html,nodejs,firebase,supabase,postgres,mysql,git,githubactions,docker,vercel&perline=8" alt="My development tools" />
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=usamadanbaiwa&show_icons=true&hide_border=true&bg_color=0f2027&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamadanbaiwa&layout=compact&hide_border=true&bg_color=0f2027&title_color=00E5FF&text_color=ffffff" alt="Languages used in my public repositories" />
 </p>
 
----
+## Find me
 
-### 🧠 About Me
-
-- 🧩 I build full-stack apps from zero to deploy  no fluff, no shortcuts.
-- 📚 Always learning, always shipping. No tutorial hell.
-- 🔍 Brutal focus on clean architecture, readable code, and ruthless debugging.
-
----
-
-### 🛠️ Tech Stack
-
-```yaml
-Languages: JavaScript, TypeScript, Python, SQL  
-Frontend: React, Next.js, Tailwind, ShadCN  
-Backend: Node.js, Express, PHP, Firebase, Supabase, PostgreSQL  
-DevOps: Git, GitHub Actions, Docker, Vercel  
-```
----
-
-### 🚧 What I'm Working On
-- ⚙️ Building a SaaS that actually solves a problem not just another CRUD clone.
-
-- 📦 Publishing open-source tools for devs who want speed and sanity.
-
-- 💥 Writing technical content (no fluff, no SEO BS just raw insights).
-
----
-
-### 🗿 No Ego Just Code
-I'm not here to flex. I'm here to contribute, learn, and solve real problems.
-If you want to collaborate, test me live no fancy resumes, no sugarcoating.
-
----
-<p align="center"> <i>"If you avoid the hard, you rot. If you face it, you rise."</i> </p>
-
-
-### 📈 GitHub Stats
-
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamadanbaiwa&show_icons=true&hide=issues&count_private=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=usamadanbaiwa&theme=dark)
-
+- [GitHub](https://github.com/usamadanbaiwa)
+- [LinkedIn](https://www.linkedin.com/in/danbaiwa/)
+- [X](https://x.com/usamadanbaiwa)
