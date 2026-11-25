@@ -21,15 +21,7 @@ I'm usually building something. If it's not on Public Repo yet, it's private
 
 <img src="https://skillicons.dev/icons?i=js,php,ts,express,python,react,nextjs,css,html,nodejs,firebase,supabase,postgres,mysql,git,githubactions,docker,vercel&perline=8" alt="My development tools" />
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=usamadanbaiwa&show_icons=true&hide_border=true&bg_color=0f2027&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamadanbaiwa&layout=compact&hide_border=true&bg_color=0f2027&title_color=00E5FF&text_color=ffffff" alt="Languages used in my public repositories" />
-</p>
-
 ## Find me
 
-- [GitHub](https://github.com/usamadanbaiwa)
 - [LinkedIn](https://www.linkedin.com/in/danbaiwa/)
 - [X](https://x.com/usamadanbaiwa)
